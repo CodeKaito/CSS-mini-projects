@@ -6,3 +6,5 @@ Project#1:"Website-Title-Animated" It's an animated title CSS
 
 Project#2:"Loader" It's an animated loading screen
 ![loader](https://user-images.githubusercontent.com/57111980/210587618-b646ceff-101e-4d76-aa34-531bc38c702b.png)
+
+Project#2:"Loader#2" It's an animated loading screen (more beautiful)
